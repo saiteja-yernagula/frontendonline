@@ -1,0 +1,74 @@
+webdevelopment- process of creating a website or web application
+
+website - collection of webpages
+
+webpage - it is a document(html) that can read by the browser to show information
+
+fullstack---
+frontend---API
+
+TECHNOLOGIES
+static webpage 
+html---structure 
+css----stylings
+
+dynamic webpages
+javascript
+
+framework
+vue,angular and react
+
+backend---API
+database
+
+
+
+HTML- hypertext markup language
+
+markup - it is set of rules that defines how content should be displayed on the browser
+
+it is a standard markup language that is used to create structure for a webpage
+it is made up of series of elements that are represented by tags 
+
+
+tag
+open tag        closing tag
+<reserverword>Content</reserverword >
+
+element 
+opentag+content+closing tag
+<h1>Heading </h1>
+<h1>Heading </h1>
+<h1>Heading </h1>
+
+
+html basic structure
+
+create a file with index.html
+
+declaration - it tells the version(html5) and type of the document
+html-root element 
+head- title,meta and external links
+body- content
+
+<!DOCTYPE html>
+<html>
+<head>
+ <title>my page</title>
+</head>
+<body>
+ my first web page
+</body>
+</html>
+
+
+there are two ways to open a project
+1) vs code
+click on file---open folder---->newfolder(frontend)--->click on + icon ---> create day1 folder
+select day1---rightclick----new file----index.html
+
+2) file manager
+choose any folder ----type cmd ----code .
+
+
+
